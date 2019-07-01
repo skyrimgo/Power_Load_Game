@@ -1,0 +1,33 @@
+.parent {
+    -fx-background-color: #fff;
+}
+
+.sidebar {
+    -fx-background-color: #333645;
+}
+
+.btns {
+    -fx-background-color: transparent;
+}
+
+.btns:hover {
+    -fx-background-color: #202332;
+}
+
+.round-lbl {
+    -fx-background-color: #fe7a79;
+    -fx-background-radius: 100%;
+}
+
+.card-01 {
+    -fx-background-color: rgba(0, 162, 211, 0.3);
+}
+.card-02 {
+    -fx-background-color: rgba(200, 150,150, 0.3);
+}
+
+.round-box {
+    -fx-background-radius: 100%;
+    -fx-border-radius: 100%;
+    -fx-border-width: 5px;
+}

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="fontawesomefx-8.9">
+    <CLASSES>
+      <root url="jar://G:/work/jar包/fontawesomefx-8.9.jar!/" />
+      <root url="jar://G:/work/jar包/fontawesomefx-8.0.1-SNAPSHOT.jar!/" />
+      <root url="jar://G:/work/jar包/fontawesomefx-glyphsbrowser-all-1.0.jar!/" />
+      <root url="jar://G:/work/jar包/三个ui包/fontawesomefx-commons-8.15.jar!/" />
+      <root url="jar://G:/work/jar包/三个ui包/fontawesomefx-fontawesome-4.7.0-5.jar!/" />
+      <root url="jar://G:/work/jar包/三个ui包/jfoenix-8.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

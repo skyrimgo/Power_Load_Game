@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="electric_gameUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/electric_gameUI_jar</output-path>
+    <root id="archive" name="electric_gameUI.jar">
+      <element id="module-output" name="electric_gameUI" />
+      <element id="extracted-dir" path="G:/work/jar包/fontawesomefx-8.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/work/jar包/fontawesomefx-8.0.1-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/work/jar包/fontawesomefx-glyphsbrowser-all-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/work/jar包/三个ui包/fontawesomefx-commons-8.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/work/jar包/三个ui包/fontawesomefx-fontawesome-4.7.0-5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/work/jar包/三个ui包/jfoenix-8.0.8.jar" path-in-jar="/" />
+      <element id="library" level="project" name="fontawesomefx-8.9" />
+    </root>
+  </artifact>
+</component>
