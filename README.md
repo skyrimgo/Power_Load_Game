@@ -20,4 +20,3 @@ Maven工程直接添加依赖
 
 ![image](https://github.com/skyrimgo/Power_Load_Game/blob/master/UI.png)
 
-注：目前程序的博弈模型还不太完善，后续将会加入政府的根据用户满意度实行的限价约束。
