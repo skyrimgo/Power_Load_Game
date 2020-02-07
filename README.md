@@ -10,13 +10,5 @@
 
 4、发电侧根据行为再次拟定方案。
 
-只做了开始的发电侧与供电侧博弈，后续相关的功能会慢慢开发，代码也会慢慢优化。
-
-界面可能会有一些图片加载不全的情况，请在代码中修改图片路径
-
-若无法正常打开，通过IDEA等导入lib文件夹下的jar包
-
-Maven工程直接添加依赖
-
-![image](https://github.com/skyrimgo/Power_Load_Game/blob/master/UI.png)
+![image](https://github.com/skyrimgo/Power_Load_Game/raw/master/UI.png?raw=true)
 
